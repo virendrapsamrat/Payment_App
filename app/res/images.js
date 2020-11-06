@@ -1,3 +1,22 @@
 export const images = {
-  //define images here
+  Add_1: require("./images/Add_1.png"),
+  Approve: require("./images/Approve.png"),
+  BIBAlogo: require("./images/BIBAlogo.png"),
+  Calendar_1: require("./images/Calendar_1.png"),
+  Camera: require("./images/Camera.png"),
+  Checkbox: require("./images/Checkbox.png"),
+  Checkin: require("./images/Checkin.png"),
+  Close: require("./images/Close.png"),
+  Mobile: require("./images/Mobile.png"),
+  NotificationBell_ON: require("./images/NotificationBell_ON.png"),
+  RightArrow: require("./images/RightArrow.png"),
+  ScanCode: require("./images/ScanCode.png"),
+  Shopping: require("./images/Shopping.png"),
+  SilverBadge: require("./images/SilverBadge.png"),
+  SmartParking: require("./images/SmartParking.png"),
+  SportsShoes: require("./images/SportsShoes.png"),
+  UPI: require("./images/UPI.png"),
+  UploadBill: require("./images/UploadBill.png"),
+  gas: require("./images/gas.png"),
+  men: require("./images/MenWear.png"),
 };
